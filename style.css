@@ -1,0 +1,5 @@
+span {
+    display: grid;
+    grid-auto-flow: 1;
+}
+
